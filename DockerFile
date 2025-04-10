@@ -14,3 +14,4 @@ EXPOSE 8501
 
 # Run the Streamlit app (ensure app.py is your entry-point)
 CMD ["streamlit", "run", "app.py"]
+
